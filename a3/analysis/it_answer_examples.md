@@ -14,6 +14,8 @@ Q: Which band had more members, Semisonic or Cake?
 Correct answer: Cake
 A2 prediction: Semisonic ✗
 A3 prediction: Cake ✓
+
+
 Changed to wrong answer-
 Q: What actor was also a president that Richard Darman worked with?
 Correct answer: George H. W. Bush
